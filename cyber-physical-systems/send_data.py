@@ -3,7 +3,7 @@ import random
 import paho.mqtt.client as mqtt
 
 # MQTT Configuration (Set your server IP)
-MQTT_BROKER = "127.0.0.1"  # Replace with actual server IP
+MQTT_BROKER = "192.168.184.183"  # Replace with actual server IP
 MQTT_PORT = 1883
 MQTT_TOPIC = "sensor/temperature"
 

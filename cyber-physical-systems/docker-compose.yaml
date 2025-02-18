@@ -51,6 +51,18 @@ services:
       - influxdb
     restart: always
 
+  telegraf:
+    image: telegraf:1.22
+    container_name: telegraf
+    networks:
+      - iot_network
+    volumes:
+      - ./telegraf/telegraf.conf:/etc/telegraf/telegraf.conf:ro
+    depends_on:
+      - mqtt_broker
+      - influxdb
+    restart: always
+
 volumes:
   influxdb-storage:
   grafana-storage:

@@ -18,3 +18,59 @@
 1739893079: New connection from 172.20.0.1:59388 on port 1883.
 1739893079: New client connected from 172.20.0.1:59388 as auto-16AFADD2-6409-6BFA-26F3-312C14EA8485 (p2, c1, k60).
 1739893098: Client auto-16AFADD2-6409-6BFA-26F3-312C14EA8485 disconnected.
+1739894808: mosquitto version 2.0.20 starting
+1739894808: Config loaded from /mosquitto/config/mosquitto.conf.
+1739894808: Opening ipv4 listen socket on port 1883.
+1739894808: Opening ipv6 listen socket on port 1883.
+1739894808: mosquitto version 2.0.20 running
+1739894906: mosquitto version 2.0.20 terminating
+1739894906: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1739894993: mosquitto version 2.0.20 starting
+1739894993: Config loaded from /mosquitto/config/mosquitto.conf.
+1739894993: Opening ipv4 listen socket on port 1883.
+1739894993: Opening ipv6 listen socket on port 1883.
+1739894993: mosquitto version 2.0.20 running
+1739895105: mosquitto version 2.0.20 terminating
+1739895105: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1739895113: mosquitto version 2.0.20 starting
+1739895113: Config loaded from /mosquitto/config/mosquitto.conf.
+1739895113: Opening ipv4 listen socket on port 1883.
+1739895113: Opening ipv6 listen socket on port 1883.
+1739895113: mosquitto version 2.0.20 running
+1739895168: New connection from 172.20.0.5:33882 on port 1883.
+1739895168: New client connected from 172.20.0.5:33882 as Telegraf-Consumer-FijIc (p2, c1, k60).
+1739895168: New connection from 172.20.0.5:33894 on port 1883.
+1739895168: New client connected from 172.20.0.5:33894 as Telegraf-Consumer-KAgUP (p2, c1, k60).
+1739895187: New connection from 172.20.0.1:55538 on port 1883.
+1739895187: New client connected from 172.20.0.1:55538 as auto-B7D54444-F8E6-1A0F-0D85-9FDB3C7FD6DE (p2, c1, k60).
+1739895336: Client auto-B7D54444-F8E6-1A0F-0D85-9FDB3C7FD6DE disconnected.
+1739895340: Client Telegraf-Consumer-FijIc disconnected.
+1739895340: Client Telegraf-Consumer-KAgUP disconnected.
+1739895340: New connection from 172.20.0.5:34626 on port 1883.
+1739895340: New client connected from 172.20.0.5:34626 as Telegraf-Consumer-1n75Z (p2, c1, k60).
+1739895340: New connection from 172.20.0.5:34634 on port 1883.
+1739895340: New client connected from 172.20.0.5:34634 as Telegraf-Consumer-vlhOl (p2, c1, k60).
+1739895378: New connection from 172.20.0.1:59610 on port 1883.
+1739895378: New client connected from 172.20.0.1:59610 as auto-BD308EF1-A7F3-D144-590E-6C7FDBD67EEF (p2, c1, k60).
+1739895870: Client auto-BD308EF1-A7F3-D144-590E-6C7FDBD67EEF disconnected.
+1739896914: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1739898636: New connection from 172.20.0.1:64534 on port 1883.
+1739898636: New client connected from 172.20.0.1:64534 as auto-49BB9905-C734-E0D6-96B3-A605EE30F530 (p2, c1, k60).
+1739898715: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1739899182: Client auto-49BB9905-C734-E0D6-96B3-A605EE30F530 disconnected.
+1739900516: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1739900800: New connection from 172.20.0.1:60860 on port 1883.
+1739900800: New client connected from 172.20.0.1:60860 as auto-7DBEB0D9-5262-3C2C-B406-4093751FA1A5 (p2, c1, k60).
+1739900866: Client auto-7DBEB0D9-5262-3C2C-B406-4093751FA1A5 disconnected.
+1739900942: New connection from 172.20.0.1:62640 on port 1883.
+1739900942: New client connected from 172.20.0.1:62640 as auto-AE124AE2-BD22-F760-9D59-5EDF18611F3B (p2, c1, k60).
+1739901268: New connection from 172.20.0.1:61756 on port 1883.
+1739901268: New client connected from 172.20.0.1:61756 as auto-E1D960E8-B83C-C6E2-453C-571F89D14CF7 (p2, c1, k60).
+1739901319: New connection from 172.20.0.1:63952 on port 1883.
+1739901319: New client connected from 172.20.0.1:63952 as auto-52208F39-DF67-F698-5F93-F46DA4208A3A (p2, c1, k60).
+1739901402: Client Telegraf-Consumer-1n75Z disconnected.
+1739901402: Client Telegraf-Consumer-vlhOl disconnected.
+1739901403: New connection from 172.20.0.5:47544 on port 1883.
+1739901403: New client connected from 172.20.0.5:47544 as Telegraf-Consumer-pJ3OM (p2, c1, k60).
+1739902317: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1739902777: Client auto-52208F39-DF67-F698-5F93-F46DA4208A3A disconnected.

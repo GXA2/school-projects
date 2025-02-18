@@ -1,0 +1,20 @@
+1739892364: mosquitto version 2.0.20 starting
+1739892364: Config loaded from /mosquitto/config/mosquitto.conf.
+1739892364: Opening ipv4 listen socket on port 1883.
+1739892364: Opening ipv6 listen socket on port 1883.
+1739892364: mosquitto version 2.0.20 running
+1739892464: mosquitto version 2.0.20 terminating
+1739892464: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1739892471: mosquitto version 2.0.20 starting
+1739892471: Config loaded from /mosquitto/config/mosquitto.conf.
+1739892471: Opening ipv4 listen socket on port 1883.
+1739892471: Opening ipv6 listen socket on port 1883.
+1739892471: mosquitto version 2.0.20 running
+1739892824: New connection from 172.20.0.1:60538 on port 1883.
+1739892824: New client connected from 172.20.0.1:60538 as auto-7FBF76EC-A2CF-F699-9A52-D33D4699C97C (p2, c1, k60).
+1739892876: Client auto-7FBF76EC-A2CF-F699-9A52-D33D4699C97C disconnected.
+1739893069: New connection from 172.20.0.1:58888 on port 1883.
+1739893069: New client connected from 172.20.0.1:58888 as auto-B825DA7A-A1F1-B39B-7D8F-AD23CE7232D5 (p2, c1, k60).
+1739893079: New connection from 172.20.0.1:59388 on port 1883.
+1739893079: New client connected from 172.20.0.1:59388 as auto-16AFADD2-6409-6BFA-26F3-312C14EA8485 (p2, c1, k60).
+1739893098: Client auto-16AFADD2-6409-6BFA-26F3-312C14EA8485 disconnected.

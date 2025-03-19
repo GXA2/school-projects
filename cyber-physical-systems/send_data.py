@@ -7,7 +7,7 @@ import json
 
 # MQTT Configuration
 MQTT_BROKER = "172.30.194.85"  # Replace with actual IP
-MQTT_PORT = 1883
+MQTT_PORT = 8883
 MQTT_TOPIC = "sensor/bmp280"
 
 # Initialize I2C Bus

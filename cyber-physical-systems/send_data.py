@@ -4,12 +4,15 @@ import busio
 import adafruit_bmp280
 import paho.mqtt.client as mqtt
 import json
+import ssl
 
 # MQTT Configuration
 MQTT_BROKER = "172.30.194.85"  # Replace with actual IP
-MQTT_PORT = 8883
+MQTT_PORT = 8883  # Secure MQTT port
 MQTT_TOPIC = "sensor/bmp280"
-
+CA_CERT_PATH = "./mosquitto/certs/ca-root.crt"  # Path to CA certificate
+CLIENT_CERT_PATH = "./mosquitto/certs/mosquitto.crt"
+CLIENT_KEY_PATH = "./mosquitto/certs/mosquitto.key"
 # Initialize I2C Bus
 i2c = busio.I2C(board.SCL, board.SDA)
 
@@ -21,6 +24,16 @@ bmp280.sea_level_pressure = 1013.25  # Adjust based on your location
 
 # MQTT Client Setup
 client = mqtt.Client()
+
+# Enable TLS
+client.tls_set(
+    ca_certs=CA_CERT_PATH, 
+    certfile=CLIENT_CERT_PATH,
+    keyfile=CLIENT_KEY_PATH,
+    tls_version=ssl.PROTOCOL_TLSv1_2
+)
+
+# Connect to MQTT Broker
 client.connect(MQTT_BROKER, MQTT_PORT, 60)
 
 try:

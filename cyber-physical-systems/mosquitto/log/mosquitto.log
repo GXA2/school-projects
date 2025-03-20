@@ -284,3 +284,1519 @@
 1742344516: New connection from 172.19.0.5:48814 on port 1883.
 1742344516: New client connected from 172.19.0.5:48814 as Telegraf-Consumer-C2DOP (p2, c1, k60).
 1742346316: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1742347914: Client Telegraf-Consumer-C2DOP disconnected.
+1742347915: mosquitto version 2.0.20 terminating
+1742347915: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1742347922: mosquitto version 2.0.20 starting
+1742347922: Config loaded from /mosquitto/config/mosquitto.conf.
+1742347922: Opening ipv4 listen socket on port 8883.
+1742347922: Opening ipv6 listen socket on port 8883.
+1742347922: mosquitto version 2.0.20 running
+1742347934: mosquitto version 2.0.20 terminating
+1742347934: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1742348089: mosquitto version 2.0.20 starting
+1742348089: Config loaded from /mosquitto/config/mosquitto.conf.
+1742348089: Opening ipv4 listen socket on port 8883.
+1742348089: Opening ipv6 listen socket on port 8883.
+1742348089: mosquitto version 2.0.20 running
+1742348090: New connection from 172.19.0.5:50902 on port 8883.
+1742348090: New client connected from 172.19.0.5:50902 as Telegraf-Consumer-4TM7K (p2, c1, k60).
+1742348101: New connection from 172.19.0.1:61068 on port 8883.
+1742348101: New client connected from 172.19.0.1:61068 as auto-5FD7715D-147E-270C-7D3A-64AF1395906D (p2, c1, k60).
+1742349207: Client Telegraf-Consumer-4TM7K disconnected.
+1742349208: mosquitto version 2.0.20 terminating
+1742349208: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1742349211: mosquitto version 2.0.20 starting
+1742349211: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349211: Opening ipv4 listen socket on port 8883.
+1742349211: Opening ipv6 listen socket on port 8883.
+1742349211: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349211: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349211: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349211: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349212: mosquitto version 2.0.20 starting
+1742349212: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349212: Opening ipv4 listen socket on port 8883.
+1742349212: Opening ipv6 listen socket on port 8883.
+1742349212: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349212: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349212: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349212: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349212: mosquitto version 2.0.20 starting
+1742349212: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349212: Opening ipv4 listen socket on port 8883.
+1742349212: Opening ipv6 listen socket on port 8883.
+1742349212: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349212: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349212: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349212: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349213: mosquitto version 2.0.20 starting
+1742349213: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349213: Opening ipv4 listen socket on port 8883.
+1742349213: Opening ipv6 listen socket on port 8883.
+1742349213: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349213: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349213: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349213: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349214: mosquitto version 2.0.20 starting
+1742349214: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349214: Opening ipv4 listen socket on port 8883.
+1742349214: Opening ipv6 listen socket on port 8883.
+1742349214: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349214: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349214: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349214: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349216: mosquitto version 2.0.20 starting
+1742349216: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349216: Opening ipv4 listen socket on port 8883.
+1742349216: Opening ipv6 listen socket on port 8883.
+1742349216: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349216: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349216: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349216: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349219: mosquitto version 2.0.20 starting
+1742349219: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349219: Opening ipv4 listen socket on port 8883.
+1742349219: Opening ipv6 listen socket on port 8883.
+1742349219: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349219: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349219: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349219: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349222: mosquitto version 2.0.20 starting
+1742349222: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349222: Opening ipv4 listen socket on port 8883.
+1742349222: Opening ipv6 listen socket on port 8883.
+1742349222: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349222: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349222: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349222: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349223: mosquitto version 2.0.20 starting
+1742349223: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349223: Opening ipv4 listen socket on port 8883.
+1742349223: Opening ipv6 listen socket on port 8883.
+1742349223: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349223: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349223: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349223: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349223: mosquitto version 2.0.20 starting
+1742349223: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349223: Opening ipv4 listen socket on port 8883.
+1742349223: Opening ipv6 listen socket on port 8883.
+1742349223: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349223: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349223: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349223: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349224: mosquitto version 2.0.20 starting
+1742349224: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349224: Opening ipv4 listen socket on port 8883.
+1742349224: Opening ipv6 listen socket on port 8883.
+1742349224: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349224: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349224: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349224: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349225: mosquitto version 2.0.20 starting
+1742349225: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349225: Opening ipv4 listen socket on port 8883.
+1742349225: Opening ipv6 listen socket on port 8883.
+1742349225: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349225: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349225: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349225: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349227: mosquitto version 2.0.20 starting
+1742349227: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349227: Opening ipv4 listen socket on port 8883.
+1742349227: Opening ipv6 listen socket on port 8883.
+1742349227: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349227: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349227: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349227: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349230: mosquitto version 2.0.20 starting
+1742349230: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349230: Opening ipv4 listen socket on port 8883.
+1742349230: Opening ipv6 listen socket on port 8883.
+1742349230: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349230: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349230: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349230: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349237: mosquitto version 2.0.20 starting
+1742349237: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349237: Opening ipv4 listen socket on port 8883.
+1742349237: Opening ipv6 listen socket on port 8883.
+1742349237: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349237: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349237: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349237: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349250: mosquitto version 2.0.20 starting
+1742349250: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349250: Opening ipv4 listen socket on port 8883.
+1742349250: Opening ipv6 listen socket on port 8883.
+1742349250: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349250: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349250: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349250: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349260: mosquitto version 2.0.20 starting
+1742349260: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349260: Opening ipv4 listen socket on port 8883.
+1742349260: Opening ipv6 listen socket on port 8883.
+1742349260: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349260: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349260: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349260: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349260: mosquitto version 2.0.20 starting
+1742349260: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349260: Opening ipv4 listen socket on port 8883.
+1742349260: Opening ipv6 listen socket on port 8883.
+1742349260: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349260: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349260: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349260: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349261: mosquitto version 2.0.20 starting
+1742349261: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349261: Opening ipv4 listen socket on port 8883.
+1742349261: Opening ipv6 listen socket on port 8883.
+1742349261: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349261: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349261: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349261: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349262: mosquitto version 2.0.20 starting
+1742349262: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349262: Opening ipv4 listen socket on port 8883.
+1742349262: Opening ipv6 listen socket on port 8883.
+1742349262: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349262: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349262: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349262: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349263: mosquitto version 2.0.20 starting
+1742349263: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349263: Opening ipv4 listen socket on port 8883.
+1742349263: Opening ipv6 listen socket on port 8883.
+1742349263: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349263: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349263: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349263: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349265: mosquitto version 2.0.20 starting
+1742349265: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349265: Opening ipv4 listen socket on port 8883.
+1742349265: Opening ipv6 listen socket on port 8883.
+1742349265: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349265: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349265: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349265: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349268: mosquitto version 2.0.20 starting
+1742349268: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349268: Opening ipv4 listen socket on port 8883.
+1742349268: Opening ipv6 listen socket on port 8883.
+1742349268: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349268: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349268: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349268: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349275: mosquitto version 2.0.20 starting
+1742349275: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349275: Opening ipv4 listen socket on port 8883.
+1742349275: Opening ipv6 listen socket on port 8883.
+1742349275: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349275: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349275: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349275: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349288: mosquitto version 2.0.20 starting
+1742349288: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349288: Opening ipv4 listen socket on port 8883.
+1742349288: Opening ipv6 listen socket on port 8883.
+1742349288: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349288: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349288: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349288: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349303: mosquitto version 2.0.20 starting
+1742349303: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349303: Opening ipv4 listen socket on port 8883.
+1742349303: Opening ipv6 listen socket on port 8883.
+1742349303: mosquitto version 2.0.20 running
+1742349304: New connection from 172.19.0.5:45718 on port 8883.
+1742349304: New client connected from 172.19.0.5:45718 as Telegraf-Consumer-muR37 (p2, c1, k60).
+1742349472: Client Telegraf-Consumer-muR37 disconnected.
+1742349473: mosquitto version 2.0.20 terminating
+1742349473: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1742349476: mosquitto version 2.0.20 starting
+1742349476: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349476: Opening ipv4 listen socket on port 8883.
+1742349476: Opening ipv6 listen socket on port 8883.
+1742349476: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349476: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349476: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349476: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349477: mosquitto version 2.0.20 starting
+1742349477: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349477: Opening ipv4 listen socket on port 8883.
+1742349477: Opening ipv6 listen socket on port 8883.
+1742349477: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349477: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349477: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349477: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349477: mosquitto version 2.0.20 starting
+1742349477: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349477: Opening ipv4 listen socket on port 8883.
+1742349477: Opening ipv6 listen socket on port 8883.
+1742349477: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349477: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349477: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349477: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349478: mosquitto version 2.0.20 starting
+1742349478: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349478: Opening ipv4 listen socket on port 8883.
+1742349478: Opening ipv6 listen socket on port 8883.
+1742349478: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349478: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349478: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349478: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349479: mosquitto version 2.0.20 starting
+1742349479: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349479: Opening ipv4 listen socket on port 8883.
+1742349479: Opening ipv6 listen socket on port 8883.
+1742349479: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349479: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349479: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349479: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349560: mosquitto version 2.0.20 starting
+1742349560: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349560: Opening ipv4 listen socket on port 8883.
+1742349560: Opening ipv6 listen socket on port 8883.
+1742349560: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349560: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349560: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349560: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349560: mosquitto version 2.0.20 starting
+1742349560: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349560: Opening ipv4 listen socket on port 8883.
+1742349560: Opening ipv6 listen socket on port 8883.
+1742349560: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349560: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349560: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349560: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349561: mosquitto version 2.0.20 starting
+1742349561: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349561: Opening ipv4 listen socket on port 8883.
+1742349561: Opening ipv6 listen socket on port 8883.
+1742349561: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349561: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349561: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349561: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349561: mosquitto version 2.0.20 starting
+1742349561: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349561: Opening ipv4 listen socket on port 8883.
+1742349561: Opening ipv6 listen socket on port 8883.
+1742349561: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349561: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349561: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349561: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349562: mosquitto version 2.0.20 starting
+1742349562: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349562: Opening ipv4 listen socket on port 8883.
+1742349562: Opening ipv6 listen socket on port 8883.
+1742349562: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349562: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349562: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349562: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349564: mosquitto version 2.0.20 starting
+1742349564: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349564: Opening ipv4 listen socket on port 8883.
+1742349564: Opening ipv6 listen socket on port 8883.
+1742349564: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349564: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349564: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349564: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349568: mosquitto version 2.0.20 starting
+1742349568: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349568: Opening ipv4 listen socket on port 8883.
+1742349568: Opening ipv6 listen socket on port 8883.
+1742349568: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349568: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349568: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349568: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349574: mosquitto version 2.0.20 starting
+1742349574: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349574: Opening ipv4 listen socket on port 8883.
+1742349574: Opening ipv6 listen socket on port 8883.
+1742349574: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349574: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349574: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349574: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349587: mosquitto version 2.0.20 starting
+1742349587: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349587: Opening ipv4 listen socket on port 8883.
+1742349587: Opening ipv6 listen socket on port 8883.
+1742349587: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349587: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349587: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349587: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349613: mosquitto version 2.0.20 starting
+1742349613: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349613: Opening ipv4 listen socket on port 8883.
+1742349613: Opening ipv6 listen socket on port 8883.
+1742349613: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349613: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349613: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349613: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349665: mosquitto version 2.0.20 starting
+1742349665: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349665: Opening ipv4 listen socket on port 8883.
+1742349665: Opening ipv6 listen socket on port 8883.
+1742349665: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349665: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349665: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349665: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349725: mosquitto version 2.0.20 starting
+1742349725: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349725: Opening ipv4 listen socket on port 8883.
+1742349725: Opening ipv6 listen socket on port 8883.
+1742349725: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349725: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349725: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349725: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349733: mosquitto version 2.0.20 starting
+1742349733: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349733: Opening ipv4 listen socket on port 8883.
+1742349733: Opening ipv6 listen socket on port 8883.
+1742349733: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349733: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349733: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349733: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349734: mosquitto version 2.0.20 starting
+1742349734: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349734: Opening ipv4 listen socket on port 8883.
+1742349734: Opening ipv6 listen socket on port 8883.
+1742349734: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349734: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349734: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349734: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349734: mosquitto version 2.0.20 starting
+1742349734: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349734: Opening ipv4 listen socket on port 8883.
+1742349734: Opening ipv6 listen socket on port 8883.
+1742349734: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349734: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349734: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349734: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349735: mosquitto version 2.0.20 starting
+1742349735: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349735: Opening ipv4 listen socket on port 8883.
+1742349735: Opening ipv6 listen socket on port 8883.
+1742349735: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349735: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349735: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349735: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349736: mosquitto version 2.0.20 starting
+1742349736: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349736: Opening ipv4 listen socket on port 8883.
+1742349736: Opening ipv6 listen socket on port 8883.
+1742349736: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349736: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349736: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349736: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349738: mosquitto version 2.0.20 starting
+1742349738: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349738: Opening ipv4 listen socket on port 8883.
+1742349738: Opening ipv6 listen socket on port 8883.
+1742349738: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349738: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349738: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349738: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349741: mosquitto version 2.0.20 starting
+1742349741: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349741: Opening ipv4 listen socket on port 8883.
+1742349741: Opening ipv6 listen socket on port 8883.
+1742349741: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349741: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349741: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349741: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349748: mosquitto version 2.0.20 starting
+1742349748: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349748: Opening ipv4 listen socket on port 8883.
+1742349748: Opening ipv6 listen socket on port 8883.
+1742349748: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349748: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349748: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349748: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349761: mosquitto version 2.0.20 starting
+1742349761: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349761: Opening ipv4 listen socket on port 8883.
+1742349761: Opening ipv6 listen socket on port 8883.
+1742349761: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349761: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349761: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349761: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349787: mosquitto version 2.0.20 starting
+1742349787: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349787: Opening ipv4 listen socket on port 8883.
+1742349787: Opening ipv6 listen socket on port 8883.
+1742349787: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349787: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349787: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349787: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349838: mosquitto version 2.0.20 starting
+1742349838: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349838: Opening ipv4 listen socket on port 8883.
+1742349838: Opening ipv6 listen socket on port 8883.
+1742349838: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349838: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349838: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349838: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349867: mosquitto version 2.0.20 starting
+1742349867: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349867: Opening ipv4 listen socket on port 8883.
+1742349867: Opening ipv6 listen socket on port 8883.
+1742349867: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349867: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349867: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349867: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349867: mosquitto version 2.0.20 starting
+1742349867: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349867: Opening ipv4 listen socket on port 8883.
+1742349867: Opening ipv6 listen socket on port 8883.
+1742349867: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349867: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349867: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349867: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349868: mosquitto version 2.0.20 starting
+1742349868: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349868: Opening ipv4 listen socket on port 8883.
+1742349868: Opening ipv6 listen socket on port 8883.
+1742349868: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349868: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349868: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349868: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349868: mosquitto version 2.0.20 starting
+1742349868: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349868: Opening ipv4 listen socket on port 8883.
+1742349868: Opening ipv6 listen socket on port 8883.
+1742349868: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349868: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349868: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349868: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349869: mosquitto version 2.0.20 starting
+1742349869: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349869: Opening ipv4 listen socket on port 8883.
+1742349869: Opening ipv6 listen socket on port 8883.
+1742349869: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349869: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349869: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349869: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349872: mosquitto version 2.0.20 starting
+1742349872: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349872: Opening ipv4 listen socket on port 8883.
+1742349872: Opening ipv6 listen socket on port 8883.
+1742349872: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349872: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349872: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349872: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349875: mosquitto version 2.0.20 starting
+1742349875: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349875: Opening ipv4 listen socket on port 8883.
+1742349875: Opening ipv6 listen socket on port 8883.
+1742349875: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349875: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349875: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349875: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349882: mosquitto version 2.0.20 starting
+1742349882: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349882: Opening ipv4 listen socket on port 8883.
+1742349882: Opening ipv6 listen socket on port 8883.
+1742349882: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349882: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349882: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349882: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349895: mosquitto version 2.0.20 starting
+1742349895: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349895: Opening ipv4 listen socket on port 8883.
+1742349895: Opening ipv6 listen socket on port 8883.
+1742349895: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349895: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349895: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349895: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349921: mosquitto version 2.0.20 starting
+1742349921: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349921: Opening ipv4 listen socket on port 8883.
+1742349921: Opening ipv6 listen socket on port 8883.
+1742349921: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349921: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349921: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349921: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742349972: mosquitto version 2.0.20 starting
+1742349972: Config loaded from /mosquitto/config/mosquitto.conf.
+1742349972: Opening ipv4 listen socket on port 8883.
+1742349972: Opening ipv6 listen socket on port 8883.
+1742349972: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742349972: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742349972: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742349972: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350082: mosquitto version 2.0.20 starting
+1742350082: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350082: Opening ipv4 listen socket on port 8883.
+1742350082: Opening ipv6 listen socket on port 8883.
+1742350082: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350082: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350082: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350082: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350082: mosquitto version 2.0.20 starting
+1742350082: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350082: Opening ipv4 listen socket on port 8883.
+1742350082: Opening ipv6 listen socket on port 8883.
+1742350082: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350082: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350082: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350082: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350083: mosquitto version 2.0.20 starting
+1742350083: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350083: Opening ipv4 listen socket on port 8883.
+1742350083: Opening ipv6 listen socket on port 8883.
+1742350083: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350083: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350083: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350083: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350084: mosquitto version 2.0.20 starting
+1742350084: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350084: Opening ipv4 listen socket on port 8883.
+1742350084: Opening ipv6 listen socket on port 8883.
+1742350084: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350084: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350084: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350084: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350085: mosquitto version 2.0.20 starting
+1742350085: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350085: Opening ipv4 listen socket on port 8883.
+1742350085: Opening ipv6 listen socket on port 8883.
+1742350085: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350085: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350085: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350085: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350086: mosquitto version 2.0.20 starting
+1742350086: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350086: Opening ipv4 listen socket on port 8883.
+1742350086: Opening ipv6 listen socket on port 8883.
+1742350086: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350086: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350086: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350086: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350090: mosquitto version 2.0.20 starting
+1742350090: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350090: Opening ipv4 listen socket on port 8883.
+1742350090: Opening ipv6 listen socket on port 8883.
+1742350090: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350090: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350090: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350090: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350097: mosquitto version 2.0.20 starting
+1742350097: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350097: Opening ipv4 listen socket on port 8883.
+1742350097: Opening ipv6 listen socket on port 8883.
+1742350097: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350097: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350097: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350097: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350104: mosquitto version 2.0.20 starting
+1742350104: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350104: Opening ipv4 listen socket on port 8883.
+1742350104: Opening ipv6 listen socket on port 8883.
+1742350104: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350104: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350104: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350104: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350105: mosquitto version 2.0.20 starting
+1742350105: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350105: Opening ipv4 listen socket on port 8883.
+1742350105: Opening ipv6 listen socket on port 8883.
+1742350105: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350105: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350105: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350105: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350106: mosquitto version 2.0.20 starting
+1742350106: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350106: Opening ipv4 listen socket on port 8883.
+1742350106: Opening ipv6 listen socket on port 8883.
+1742350106: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350106: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350106: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350106: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350106: mosquitto version 2.0.20 starting
+1742350106: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350106: Opening ipv4 listen socket on port 8883.
+1742350106: Opening ipv6 listen socket on port 8883.
+1742350106: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350106: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350106: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350106: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350107: mosquitto version 2.0.20 starting
+1742350107: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350107: Opening ipv4 listen socket on port 8883.
+1742350107: Opening ipv6 listen socket on port 8883.
+1742350107: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350107: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350107: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350107: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350109: mosquitto version 2.0.20 starting
+1742350109: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350109: Opening ipv4 listen socket on port 8883.
+1742350109: Opening ipv6 listen socket on port 8883.
+1742350109: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350109: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350109: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350109: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350113: mosquitto version 2.0.20 starting
+1742350113: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350113: Opening ipv4 listen socket on port 8883.
+1742350113: Opening ipv6 listen socket on port 8883.
+1742350113: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350113: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350113: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350113: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350119: mosquitto version 2.0.20 starting
+1742350119: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350119: Opening ipv4 listen socket on port 8883.
+1742350119: Opening ipv6 listen socket on port 8883.
+1742350119: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350119: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350119: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350119: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350132: mosquitto version 2.0.20 starting
+1742350132: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350132: Opening ipv4 listen socket on port 8883.
+1742350132: Opening ipv6 listen socket on port 8883.
+1742350132: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350132: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350132: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350132: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350158: mosquitto version 2.0.20 starting
+1742350158: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350158: Opening ipv4 listen socket on port 8883.
+1742350158: Opening ipv6 listen socket on port 8883.
+1742350158: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350158: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350158: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350158: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742350209: mosquitto version 2.0.20 starting
+1742350209: Config loaded from /mosquitto/config/mosquitto.conf.
+1742350209: Opening ipv4 listen socket on port 8883.
+1742350209: Opening ipv6 listen socket on port 8883.
+1742350209: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742350209: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742350209: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742350209: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742395374: mosquitto version 2.0.20 starting
+1742395374: Config loaded from /mosquitto/config/mosquitto.conf.
+1742395374: Opening ipv4 listen socket on port 8883.
+1742395374: Opening ipv6 listen socket on port 8883.
+1742395374: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742395374: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742395374: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742395374: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742395434: mosquitto version 2.0.20 starting
+1742395434: Config loaded from /mosquitto/config/mosquitto.conf.
+1742395434: Opening ipv4 listen socket on port 8883.
+1742395434: Opening ipv6 listen socket on port 8883.
+1742395434: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742395434: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742395434: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742395434: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742395495: mosquitto version 2.0.20 starting
+1742395495: Config loaded from /mosquitto/config/mosquitto.conf.
+1742395495: Opening ipv4 listen socket on port 8883.
+1742395495: Opening ipv6 listen socket on port 8883.
+1742395495: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742395495: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742395495: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742395495: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742395555: mosquitto version 2.0.20 starting
+1742395555: Config loaded from /mosquitto/config/mosquitto.conf.
+1742395555: Opening ipv4 listen socket on port 8883.
+1742395555: Opening ipv6 listen socket on port 8883.
+1742395555: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742395555: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742395555: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742395555: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742453815: mosquitto version 2.0.20 starting
+1742453815: Config loaded from /mosquitto/config/mosquitto.conf.
+1742453815: Opening ipv4 listen socket on port 8883.
+1742453815: Opening ipv6 listen socket on port 8883.
+1742453815: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742453815: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742453815: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742453815: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742453816: mosquitto version 2.0.20 starting
+1742453816: Config loaded from /mosquitto/config/mosquitto.conf.
+1742453816: Opening ipv4 listen socket on port 8883.
+1742453816: Opening ipv6 listen socket on port 8883.
+1742453816: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742453816: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742453816: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742453816: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742453817: mosquitto version 2.0.20 starting
+1742453817: Config loaded from /mosquitto/config/mosquitto.conf.
+1742453817: Opening ipv4 listen socket on port 8883.
+1742453817: Opening ipv6 listen socket on port 8883.
+1742453817: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742453817: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742453817: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742453817: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742453817: mosquitto version 2.0.20 starting
+1742453817: Config loaded from /mosquitto/config/mosquitto.conf.
+1742453817: Opening ipv4 listen socket on port 8883.
+1742453817: Opening ipv6 listen socket on port 8883.
+1742453817: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742453817: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742453817: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742453817: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742453818: mosquitto version 2.0.20 starting
+1742453818: Config loaded from /mosquitto/config/mosquitto.conf.
+1742453818: Opening ipv4 listen socket on port 8883.
+1742453818: Opening ipv6 listen socket on port 8883.
+1742453818: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742453818: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742453818: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742453818: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485510: mosquitto version 2.0.20 starting
+1742485510: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485510: Opening ipv4 listen socket on port 8883.
+1742485510: Opening ipv6 listen socket on port 8883.
+1742485510: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485510: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485510: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485510: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485511: mosquitto version 2.0.20 starting
+1742485511: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485511: Opening ipv4 listen socket on port 8883.
+1742485511: Opening ipv6 listen socket on port 8883.
+1742485511: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485511: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485511: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485511: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485511: mosquitto version 2.0.20 starting
+1742485511: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485511: Opening ipv4 listen socket on port 8883.
+1742485511: Opening ipv6 listen socket on port 8883.
+1742485511: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485511: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485511: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485511: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485512: mosquitto version 2.0.20 starting
+1742485512: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485512: Opening ipv4 listen socket on port 8883.
+1742485512: Opening ipv6 listen socket on port 8883.
+1742485512: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485512: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485512: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485512: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485513: mosquitto version 2.0.20 starting
+1742485513: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485513: Opening ipv4 listen socket on port 8883.
+1742485513: Opening ipv6 listen socket on port 8883.
+1742485513: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485513: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485513: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485513: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485515: mosquitto version 2.0.20 starting
+1742485515: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485515: Opening ipv4 listen socket on port 8883.
+1742485515: Opening ipv6 listen socket on port 8883.
+1742485515: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485515: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485515: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485515: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485518: mosquitto version 2.0.20 starting
+1742485518: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485518: Opening ipv4 listen socket on port 8883.
+1742485518: Opening ipv6 listen socket on port 8883.
+1742485518: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485518: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485518: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485518: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485525: mosquitto version 2.0.20 starting
+1742485525: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485525: Opening ipv4 listen socket on port 8883.
+1742485525: Opening ipv6 listen socket on port 8883.
+1742485525: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485525: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485525: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485525: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485538: mosquitto version 2.0.20 starting
+1742485538: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485538: Opening ipv4 listen socket on port 8883.
+1742485538: Opening ipv6 listen socket on port 8883.
+1742485538: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485538: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485538: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485538: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485564: mosquitto version 2.0.20 starting
+1742485564: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485564: Opening ipv4 listen socket on port 8883.
+1742485564: Opening ipv6 listen socket on port 8883.
+1742485564: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485564: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485564: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485564: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485615: mosquitto version 2.0.20 starting
+1742485615: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485615: Opening ipv4 listen socket on port 8883.
+1742485615: Opening ipv6 listen socket on port 8883.
+1742485615: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485615: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485615: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485615: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485675: mosquitto version 2.0.20 starting
+1742485675: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485675: Opening ipv4 listen socket on port 8883.
+1742485675: Opening ipv6 listen socket on port 8883.
+1742485675: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485675: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485675: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485675: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485735: mosquitto version 2.0.20 starting
+1742485735: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485735: Opening ipv4 listen socket on port 8883.
+1742485735: Opening ipv6 listen socket on port 8883.
+1742485735: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742485735: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485735: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742485735: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742485796: mosquitto version 2.0.20 starting
+1742485796: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485796: Opening ipv4 listen socket on port 8883.
+1742485796: Opening ipv6 listen socket on port 8883.
+1742485796: Error: Unable to load server certificate "/mosquitto/config/certs/mosquitto.crt". Check certfile.
+1742485796: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485796: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1742485796: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1742485856: mosquitto version 2.0.20 starting
+1742485856: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485856: Opening ipv4 listen socket on port 8883.
+1742485856: Opening ipv6 listen socket on port 8883.
+1742485856: Error: Unable to load server certificate "/mosquitto/config/certs/mosquitto.crt". Check certfile.
+1742485856: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485856: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1742485856: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1742485916: mosquitto version 2.0.20 starting
+1742485916: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485916: Opening ipv4 listen socket on port 8883.
+1742485916: Opening ipv6 listen socket on port 8883.
+1742485916: Error: Unable to load server certificate "/mosquitto/config/certs/mosquitto.crt". Check certfile.
+1742485916: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485916: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1742485916: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1742485976: mosquitto version 2.0.20 starting
+1742485976: Config loaded from /mosquitto/config/mosquitto.conf.
+1742485976: Opening ipv4 listen socket on port 8883.
+1742485976: Opening ipv6 listen socket on port 8883.
+1742485976: Error: Unable to load server certificate "/mosquitto/config/certs/mosquitto.crt". Check certfile.
+1742485976: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742485976: OpenSSL Error[1]: error:10080002:BIO routines::system lib
+1742485976: OpenSSL Error[2]: error:0A080002:SSL routines::system lib
+1742486037: mosquitto version 2.0.20 starting
+1742486037: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486037: Opening ipv4 listen socket on port 8883.
+1742486037: Opening ipv6 listen socket on port 8883.
+1742486037: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/certs/ca.crt".
+1742486037: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486037: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486037: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486097: mosquitto version 2.0.20 starting
+1742486097: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486097: Opening ipv4 listen socket on port 8883.
+1742486097: Opening ipv6 listen socket on port 8883.
+1742486097: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486097: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486097: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486097: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486157: mosquitto version 2.0.20 starting
+1742486157: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486157: Opening ipv4 listen socket on port 8883.
+1742486157: Opening ipv6 listen socket on port 8883.
+1742486157: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486157: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486157: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486157: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486158: mosquitto version 2.0.20 starting
+1742486158: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486158: Opening ipv4 listen socket on port 8883.
+1742486158: Opening ipv6 listen socket on port 8883.
+1742486158: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486158: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486158: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486158: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486158: mosquitto version 2.0.20 starting
+1742486158: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486158: Opening ipv4 listen socket on port 8883.
+1742486158: Opening ipv6 listen socket on port 8883.
+1742486158: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486158: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486158: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486158: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486159: mosquitto version 2.0.20 starting
+1742486159: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486159: Opening ipv4 listen socket on port 8883.
+1742486159: Opening ipv6 listen socket on port 8883.
+1742486159: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486159: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486159: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486159: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486160: mosquitto version 2.0.20 starting
+1742486160: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486160: Opening ipv4 listen socket on port 8883.
+1742486160: Opening ipv6 listen socket on port 8883.
+1742486160: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486160: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486160: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486160: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486162: mosquitto version 2.0.20 starting
+1742486162: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486162: Opening ipv4 listen socket on port 8883.
+1742486162: Opening ipv6 listen socket on port 8883.
+1742486162: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486162: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486162: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486162: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486165: mosquitto version 2.0.20 starting
+1742486165: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486165: Opening ipv4 listen socket on port 8883.
+1742486165: Opening ipv6 listen socket on port 8883.
+1742486165: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486165: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486165: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486165: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486172: mosquitto version 2.0.20 starting
+1742486172: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486172: Opening ipv4 listen socket on port 8883.
+1742486172: Opening ipv6 listen socket on port 8883.
+1742486172: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486172: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486172: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486172: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486179: mosquitto version 2.0.20 starting
+1742486179: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486179: Opening ipv4 listen socket on port 8883.
+1742486179: Opening ipv6 listen socket on port 8883.
+1742486179: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486179: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486179: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486179: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486179: mosquitto version 2.0.20 starting
+1742486179: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486179: Opening ipv4 listen socket on port 8883.
+1742486179: Opening ipv6 listen socket on port 8883.
+1742486179: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486179: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486179: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486179: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486180: mosquitto version 2.0.20 starting
+1742486180: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486180: Opening ipv4 listen socket on port 8883.
+1742486180: Opening ipv6 listen socket on port 8883.
+1742486180: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486180: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486180: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486180: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486180: mosquitto version 2.0.20 starting
+1742486180: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486180: Opening ipv4 listen socket on port 8883.
+1742486180: Opening ipv6 listen socket on port 8883.
+1742486180: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486180: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486180: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486180: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486181: mosquitto version 2.0.20 starting
+1742486181: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486181: Opening ipv4 listen socket on port 8883.
+1742486181: Opening ipv6 listen socket on port 8883.
+1742486181: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486181: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486181: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486181: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486183: mosquitto version 2.0.20 starting
+1742486183: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486183: Opening ipv4 listen socket on port 8883.
+1742486183: Opening ipv6 listen socket on port 8883.
+1742486183: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486183: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486183: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486183: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486186: mosquitto version 2.0.20 starting
+1742486186: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486186: Opening ipv4 listen socket on port 8883.
+1742486186: Opening ipv6 listen socket on port 8883.
+1742486186: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486186: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486186: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486186: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486193: mosquitto version 2.0.20 starting
+1742486193: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486193: Opening ipv4 listen socket on port 8883.
+1742486193: Opening ipv6 listen socket on port 8883.
+1742486193: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486193: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486193: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486193: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486203: mosquitto version 2.0.20 starting
+1742486203: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486203: Opening ipv4 listen socket on port 8883.
+1742486203: Opening ipv6 listen socket on port 8883.
+1742486203: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486203: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486203: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486203: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486203: mosquitto version 2.0.20 starting
+1742486203: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486203: Opening ipv4 listen socket on port 8883.
+1742486203: Opening ipv6 listen socket on port 8883.
+1742486203: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486203: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486203: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486203: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486204: mosquitto version 2.0.20 starting
+1742486204: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486204: Opening ipv4 listen socket on port 8883.
+1742486204: Opening ipv6 listen socket on port 8883.
+1742486204: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486204: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486204: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486204: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486204: mosquitto version 2.0.20 starting
+1742486204: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486204: Opening ipv4 listen socket on port 8883.
+1742486204: Opening ipv6 listen socket on port 8883.
+1742486204: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486204: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486204: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486204: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486205: mosquitto version 2.0.20 starting
+1742486205: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486205: Opening ipv4 listen socket on port 8883.
+1742486205: Opening ipv6 listen socket on port 8883.
+1742486205: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486205: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486205: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486205: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486207: mosquitto version 2.0.20 starting
+1742486207: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486207: Opening ipv4 listen socket on port 8883.
+1742486207: Opening ipv6 listen socket on port 8883.
+1742486207: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486207: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486207: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486207: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486211: mosquitto version 2.0.20 starting
+1742486211: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486211: Opening ipv4 listen socket on port 8883.
+1742486211: Opening ipv6 listen socket on port 8883.
+1742486211: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486211: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486211: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486211: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486217: mosquitto version 2.0.20 starting
+1742486217: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486217: Opening ipv4 listen socket on port 8883.
+1742486217: Opening ipv6 listen socket on port 8883.
+1742486217: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486217: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486217: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486217: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486230: mosquitto version 2.0.20 starting
+1742486230: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486230: Opening ipv4 listen socket on port 8883.
+1742486230: Opening ipv6 listen socket on port 8883.
+1742486230: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486230: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486230: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486230: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486256: mosquitto version 2.0.20 starting
+1742486256: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486256: Opening ipv4 listen socket on port 8883.
+1742486256: Opening ipv6 listen socket on port 8883.
+1742486256: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486256: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486256: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486256: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486288: mosquitto version 2.0.20 starting
+1742486288: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486288: Opening ipv4 listen socket on port 8883.
+1742486288: Opening ipv6 listen socket on port 8883.
+1742486288: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486288: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486288: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486288: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486289: mosquitto version 2.0.20 starting
+1742486289: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486289: Opening ipv4 listen socket on port 8883.
+1742486289: Opening ipv6 listen socket on port 8883.
+1742486289: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486289: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486289: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486289: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486289: mosquitto version 2.0.20 starting
+1742486289: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486289: Opening ipv4 listen socket on port 8883.
+1742486289: Opening ipv6 listen socket on port 8883.
+1742486289: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486289: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486289: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486289: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486290: mosquitto version 2.0.20 starting
+1742486290: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486290: Opening ipv4 listen socket on port 8883.
+1742486290: Opening ipv6 listen socket on port 8883.
+1742486290: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486290: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486290: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486290: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486291: mosquitto version 2.0.20 starting
+1742486291: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486291: Opening ipv4 listen socket on port 8883.
+1742486291: Opening ipv6 listen socket on port 8883.
+1742486291: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486291: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486291: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486291: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486293: mosquitto version 2.0.20 starting
+1742486293: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486293: Opening ipv4 listen socket on port 8883.
+1742486293: Opening ipv6 listen socket on port 8883.
+1742486293: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486293: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486293: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486293: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486296: mosquitto version 2.0.20 starting
+1742486296: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486296: Opening ipv4 listen socket on port 8883.
+1742486296: Opening ipv6 listen socket on port 8883.
+1742486296: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486296: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486296: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486296: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486303: mosquitto version 2.0.20 starting
+1742486303: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486303: Opening ipv4 listen socket on port 8883.
+1742486303: Opening ipv6 listen socket on port 8883.
+1742486303: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486303: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486303: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486303: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486316: mosquitto version 2.0.20 starting
+1742486316: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486316: Opening ipv4 listen socket on port 8883.
+1742486316: Opening ipv6 listen socket on port 8883.
+1742486316: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486316: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486316: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486316: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486336: mosquitto version 2.0.20 starting
+1742486336: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486336: Opening ipv4 listen socket on port 8883.
+1742486336: Opening ipv6 listen socket on port 8883.
+1742486336: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486336: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486336: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486336: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486337: mosquitto version 2.0.20 starting
+1742486337: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486337: Opening ipv4 listen socket on port 8883.
+1742486337: Opening ipv6 listen socket on port 8883.
+1742486337: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486337: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486337: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486337: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486338: mosquitto version 2.0.20 starting
+1742486338: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486338: Opening ipv4 listen socket on port 8883.
+1742486338: Opening ipv6 listen socket on port 8883.
+1742486338: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486338: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486338: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486338: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486338: mosquitto version 2.0.20 starting
+1742486338: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486338: Opening ipv4 listen socket on port 8883.
+1742486338: Opening ipv6 listen socket on port 8883.
+1742486338: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486338: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486338: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486338: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486340: mosquitto version 2.0.20 starting
+1742486340: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486340: Opening ipv4 listen socket on port 8883.
+1742486340: Opening ipv6 listen socket on port 8883.
+1742486340: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486340: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486340: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486340: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486341: mosquitto version 2.0.20 starting
+1742486341: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486341: Opening ipv4 listen socket on port 8883.
+1742486341: Opening ipv6 listen socket on port 8883.
+1742486341: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486341: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486341: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486341: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486345: mosquitto version 2.0.20 starting
+1742486345: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486345: Opening ipv4 listen socket on port 8883.
+1742486345: Opening ipv6 listen socket on port 8883.
+1742486345: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486345: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486345: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486345: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486351: mosquitto version 2.0.20 starting
+1742486351: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486351: Opening ipv4 listen socket on port 8883.
+1742486351: Opening ipv6 listen socket on port 8883.
+1742486351: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486351: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486351: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486351: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486364: mosquitto version 2.0.20 starting
+1742486364: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486364: Opening ipv4 listen socket on port 8883.
+1742486364: Opening ipv6 listen socket on port 8883.
+1742486364: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486364: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486364: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486364: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486390: mosquitto version 2.0.20 starting
+1742486390: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486390: Opening ipv4 listen socket on port 8883.
+1742486390: Opening ipv6 listen socket on port 8883.
+1742486390: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486390: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486390: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486390: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486442: mosquitto version 2.0.20 starting
+1742486442: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486442: Opening ipv4 listen socket on port 8883.
+1742486442: Opening ipv6 listen socket on port 8883.
+1742486442: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486442: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486442: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486442: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486502: mosquitto version 2.0.20 starting
+1742486502: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486502: Opening ipv4 listen socket on port 8883.
+1742486502: Opening ipv6 listen socket on port 8883.
+1742486502: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486502: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486502: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486502: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486562: mosquitto version 2.0.20 starting
+1742486562: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486562: Opening ipv4 listen socket on port 8883.
+1742486562: Opening ipv6 listen socket on port 8883.
+1742486562: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486562: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486562: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486562: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486622: mosquitto version 2.0.20 starting
+1742486622: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486622: Opening ipv4 listen socket on port 8883.
+1742486622: Opening ipv6 listen socket on port 8883.
+1742486622: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486622: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486622: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486622: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486683: mosquitto version 2.0.20 starting
+1742486683: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486683: Opening ipv4 listen socket on port 8883.
+1742486683: Opening ipv6 listen socket on port 8883.
+1742486683: Error: Unable to load CA certificates. Check cafile "/media/sirprodigy/Project Space/repos/school-projects/cyber-physical-systems/mosquitto/certs/ca.crt".
+1742486683: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486683: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486683: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486743: mosquitto version 2.0.20 starting
+1742486743: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486743: Opening ipv4 listen socket on port 8883.
+1742486743: Opening ipv6 listen socket on port 8883.
+1742486743: mosquitto version 2.0.20 running
+1742486743: Client connection from 172.19.0.5 failed: error:0A00010B:SSL routines::wrong version number.
+1742486743: New connection from 172.19.0.5:45292 on port 8883.
+1742486743: OpenSSL Error[0]: error:0A00010B:SSL routines::wrong version number
+1742486743: Client <unknown> disconnected: Protocol error.
+1742486746: mosquitto version 2.0.20 terminating
+1742486746: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1742486748: mosquitto version 2.0.20 starting
+1742486748: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486748: Opening ipv4 listen socket on port 8883.
+1742486748: Opening ipv6 listen socket on port 8883.
+1742486748: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486748: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486748: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486748: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486749: mosquitto version 2.0.20 starting
+1742486749: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486749: Opening ipv4 listen socket on port 8883.
+1742486749: Opening ipv6 listen socket on port 8883.
+1742486749: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486749: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486749: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486749: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486749: mosquitto version 2.0.20 starting
+1742486749: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486749: Opening ipv4 listen socket on port 8883.
+1742486749: Opening ipv6 listen socket on port 8883.
+1742486749: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486749: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486749: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486749: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486750: mosquitto version 2.0.20 starting
+1742486750: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486750: Opening ipv4 listen socket on port 8883.
+1742486750: Opening ipv6 listen socket on port 8883.
+1742486750: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486750: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486750: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486750: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486751: mosquitto version 2.0.20 starting
+1742486751: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486751: Opening ipv4 listen socket on port 8883.
+1742486751: Opening ipv6 listen socket on port 8883.
+1742486751: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486751: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486751: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486751: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486753: mosquitto version 2.0.20 starting
+1742486753: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486753: Opening ipv4 listen socket on port 8883.
+1742486753: Opening ipv6 listen socket on port 8883.
+1742486753: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486753: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486753: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486753: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486756: mosquitto version 2.0.20 starting
+1742486756: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486756: Opening ipv4 listen socket on port 8883.
+1742486756: Opening ipv6 listen socket on port 8883.
+1742486756: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486756: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486756: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486756: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486763: mosquitto version 2.0.20 starting
+1742486763: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486763: Opening ipv4 listen socket on port 8883.
+1742486763: Opening ipv6 listen socket on port 8883.
+1742486763: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486763: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486763: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486763: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486776: mosquitto version 2.0.20 starting
+1742486776: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486776: Opening ipv4 listen socket on port 8883.
+1742486776: Opening ipv6 listen socket on port 8883.
+1742486776: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486776: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486776: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486776: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486802: mosquitto version 2.0.20 starting
+1742486802: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486802: Opening ipv4 listen socket on port 8883.
+1742486802: Opening ipv6 listen socket on port 8883.
+1742486802: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486802: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486802: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486802: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486853: mosquitto version 2.0.20 starting
+1742486853: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486853: Opening ipv4 listen socket on port 8883.
+1742486853: Opening ipv6 listen socket on port 8883.
+1742486853: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486853: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486853: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486853: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486913: mosquitto version 2.0.20 starting
+1742486913: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486913: Opening ipv4 listen socket on port 8883.
+1742486913: Opening ipv6 listen socket on port 8883.
+1742486913: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486913: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486913: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486913: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486940: mosquitto version 2.0.20 starting
+1742486940: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486940: Opening ipv4 listen socket on port 8883.
+1742486940: Opening ipv6 listen socket on port 8883.
+1742486940: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486940: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486940: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486940: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486941: mosquitto version 2.0.20 starting
+1742486941: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486941: Opening ipv4 listen socket on port 8883.
+1742486941: Opening ipv6 listen socket on port 8883.
+1742486941: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486941: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486941: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486941: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486942: mosquitto version 2.0.20 starting
+1742486942: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486942: Opening ipv4 listen socket on port 8883.
+1742486942: Opening ipv6 listen socket on port 8883.
+1742486942: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486942: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486942: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486942: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486942: mosquitto version 2.0.20 starting
+1742486942: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486942: Opening ipv4 listen socket on port 8883.
+1742486942: Opening ipv6 listen socket on port 8883.
+1742486942: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486942: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486942: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486942: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486943: mosquitto version 2.0.20 starting
+1742486943: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486943: Opening ipv4 listen socket on port 8883.
+1742486943: Opening ipv6 listen socket on port 8883.
+1742486943: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486943: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486943: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486943: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486945: mosquitto version 2.0.20 starting
+1742486945: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486945: Opening ipv4 listen socket on port 8883.
+1742486945: Opening ipv6 listen socket on port 8883.
+1742486945: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486945: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486945: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486945: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486948: mosquitto version 2.0.20 starting
+1742486948: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486948: Opening ipv4 listen socket on port 8883.
+1742486948: Opening ipv6 listen socket on port 8883.
+1742486948: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486948: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486948: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486948: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486955: mosquitto version 2.0.20 starting
+1742486955: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486955: Opening ipv4 listen socket on port 8883.
+1742486955: Opening ipv6 listen socket on port 8883.
+1742486955: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486955: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486955: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486955: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486968: mosquitto version 2.0.20 starting
+1742486968: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486968: Opening ipv4 listen socket on port 8883.
+1742486968: Opening ipv6 listen socket on port 8883.
+1742486968: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486968: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486968: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486968: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742486994: mosquitto version 2.0.20 starting
+1742486994: Config loaded from /mosquitto/config/mosquitto.conf.
+1742486994: Opening ipv4 listen socket on port 8883.
+1742486994: Opening ipv6 listen socket on port 8883.
+1742486994: Error: Unable to load CA certificates. Check cafile "/mosquitto/certs/ca.crt".
+1742486994: OpenSSL Error[0]: error:80000002:system library::No such file or directory
+1742486994: OpenSSL Error[1]: error:10000080:BIO routines::no such file
+1742486994: OpenSSL Error[2]: error:05880020:x509 certificate routines::BIO lib
+1742487044: mosquitto version 2.0.20 starting
+1742487044: Config loaded from /mosquitto/config/mosquitto.conf.
+1742487044: Opening ipv4 listen socket on port 8883.
+1742487044: Opening ipv6 listen socket on port 8883.
+1742487044: mosquitto version 2.0.20 running
+1742487045: New connection from 172.19.0.5:46908 on port 8883.
+1742487045: New client connected from 172.19.0.5:46908 as Telegraf-Consumer-2ebHH (p2, c1, k60).
+1742488742: mosquitto version 2.0.20 terminating
+1742488742: Saving in-memory database to /mosquitto/data//mosquitto.db.

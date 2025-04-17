@@ -2,3 +2,6 @@ my-venv/
 cyber-physical-systems/mosquitto/data/mosquitto.db
 cyber-physical-systems/mosquitto/log/mosquitto.log
 cyber-physical-systems/.venv/
+cyber-physical-systems/main_ai_influx.dist
+cyber-physical-systems/main_ai_influx.bin
+cyber-physical-systems/hw3/dataset_non_sensorweb.npy

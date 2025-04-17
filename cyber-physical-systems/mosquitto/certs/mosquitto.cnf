@@ -1,0 +1,23 @@
+[req]
+distinguished_name = req_distinguished_name
+req_extensions = v3_req
+x509_extensions = v3_ca
+prompt = no
+
+[req_distinguished_name]
+C = US
+ST = YourState
+L = YourCity
+O = YourOrganization
+OU = YourDepartment
+CN = localhost  # Change to your actual Mosquitto broker IP
+
+[v3_req]
+subjectAltName = @alt_names
+
+[v3_ca]
+subjectAltName = @alt_names
+
+[alt_names]
+IP.1 = 172.30.194.85  # Your broker’s IP
+DNS.1 = mqtt.local     # Optional, for domain-based access

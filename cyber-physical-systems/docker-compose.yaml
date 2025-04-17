@@ -20,7 +20,7 @@ services:
     restart: always
 
   influxdb:
-    image: influxdb:1.8
+    image: influxdb
     container_name: influxdb
     networks:
       - iot_network
